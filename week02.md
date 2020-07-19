@@ -18,3 +18,11 @@ Week 2
 | day 3 | 2:45:00 | if having troubles, check ip address |
 | day 3 | 2:49:00 | make a bad table |
 | day 3 | 4:49:15 | normalization notes |
+| day 4 am | 0:47:00 | agenda: subquerries, joins, set operations, functions, sequences, triggers, transactions |
+| day 4 pm | 0:10:15 | demo database code |
+| day 4 pm | 0:19:00 | set up database connection pool in dao index |
+| day 4 pm | 0:42:00 | set up a querry in code demo |
+| day 4 pm | 1:05:00 | setup envirnoment variables |
+| day 4 pm | 1:41:00 | back from a break demos with postman continue |
+| day 4 pm | 1:44:00 | how to get genre[] in our book |
+| day 4 pm | 2:03:00 | using aggegrate arrays in a querry |
