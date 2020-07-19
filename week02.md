@@ -26,3 +26,8 @@ Week 2
 | day 4 pm | 1:41:00 | back from a break demos with postman continue |
 | day 4 pm | 1:44:00 | how to get genre[] in our book |
 | day 4 pm | 2:03:00 | using aggegrate arrays in a querry |
+| day 5 am | 0:30:00 | discussion starts with pg/promises notes |
+| day 5 am | 0:34:30 | demo more work on routers for project 0 |
+| day 5 am | 2:20:00 | trouble shoot and use app.listen |
+| day 5 am | 2:44:00 | get user by id and password in user-daos/auth-error if not found |
+| day 5 am | 2:53:00 | set up post request code |
