@@ -7,5 +7,6 @@ Week 4
 | day 2 pm     | 0:00       | react redux documentation |
 | day 2 pm     | 0:01       | redux notes | 
 | day 2 pm     | 0:43:20    | react - redux coding demos |
+| day 2 pm     | 0:53    | set up components demo |
 | day 4 pm     | 2:34       | set up a firewall |
 | day 4 pm     | 3:13:25    | Make a new instance |
