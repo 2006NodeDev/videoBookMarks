@@ -2,6 +2,6 @@
 
 Week 5
 
-|--------|--------|--------|
 | day/video | timestamp | description |
+|--------|--------|--------|
 | day 3/pm | 0:30:00 |demo dao for bucket and GOOGLE_APPLICATION_CREDENTIALS was set up |
