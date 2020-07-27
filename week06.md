@@ -14,5 +14,8 @@ Week 6
 | day 3 | 0:00:00 | video starts at the beginning |
 | day 3 | 0:06:30 | splitting up code to make microservices demo |
 | day 3 | 0:29:00 | set up database for microservices demo |
-
+| day 4 AM | 0:14:40 | Good Morning greetings |
+| day 4 AM | 1:04:43 | no lectures / no demos for the entire video |
+| day 4 PM | 0:00:00 | project 2 requirements discussed |
+| day 4 PM | 0:20:10 | Kubernetes Notes |
 
