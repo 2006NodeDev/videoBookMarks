@@ -11,4 +11,8 @@ Week 6
 | day 2 | 0:50:00 | SSL Demos |
 | day 2 | 1:34:00 | security GCP bucket demo |
 | day 2 | 2:31:30 | JSON Web Tokens |
+| day 3 | 0:00:00 | video starts at the beginning |
+| day 3 | 0:06:30 | splitting up code to make microservices demo |
+| day 3 | 0:29:00 | set up database for microservices demo |
+
 
