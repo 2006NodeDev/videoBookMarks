@@ -18,4 +18,6 @@ Week 6
 | day 4 AM | 1:04:43 | no lectures / no demos for the entire video |
 | day 4 PM | 0:00:00 | project 2 requirements discussed |
 | day 4 PM | 0:20:10 | Kubernetes Notes |
+| day 5 #1 | 0:22:00 | went over proposals |
+| day 5 #1 | 0:31:00 | Demo: set up nginx |
 
