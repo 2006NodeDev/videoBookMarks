@@ -32,3 +32,12 @@ Week 1: June 15 - 19th
 | day 4 | 6:02:45 | demo: using postman |
 | day 4 | 6:29:45 | demo: post request |
 | day 4 | 6:42:00 | middleware notes and demo |
+| day 4 | 7:12:00 | more express notes |
+| day 5 | 0:23:00 | notes and demos: errors |
+| day 5 | 1:30:30 | notes: rest naming conventions |
+| day 5 | 2:07:00 | router notes and demos |
+| day 5 | 2:33:00 | logging middleware notes and demos |
+| day 5 | 4:25:30 | install express session |
+| day 5 | 4:27:30 | install dev depencies: nodeman, types/express-session |
+| day 5 | 4:49:00 | demo: session-middleware using a session factory|
+| day 5 | 5:05:00 | demo: login function (users not yet moved to DB) |
