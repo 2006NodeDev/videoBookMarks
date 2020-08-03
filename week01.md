@@ -1,6 +1,6 @@
 --Enter day and begin time from week 1 videos that you find helpful --
-Week 1: June 15 - 19th
 
+Week 1: June 15th - 19th
 
 | day | video time | description |
 |--------------|------------|-------------|

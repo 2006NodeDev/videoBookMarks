@@ -1,6 +1,6 @@
 Here is our week 6 file.
 
-Week 6
+Week 6: July 20th - 24th
 
 | day rec.# | timestamp | dexcription |
 |-----------|-----------|-------------|
