@@ -1,5 +1,6 @@
 --Enter video day (include am or pm for before and after lunch) and time on the video, along with the discussion/demo topic --
-Week 4
+
+Week 4: July 6th - 10th
 
 | day/am or pm | video time | description |
 |--------------|------------|-------------|

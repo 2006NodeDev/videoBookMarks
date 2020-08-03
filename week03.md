@@ -1,7 +1,8 @@
 --Enter video day (include am or pm for before and after lunch) and time on the video, along with the discussion/demo topic --
  --Please put your notes in order. --
 
- Week 3
+ Week 3: June 29th - July 2nd
+ 
 |  day am/pm  | time stamp   | description (include demo/disc/notes if you known)  |
 |:---:|:----:|-----|
 | day 2 pm | 1:10 | http request |
