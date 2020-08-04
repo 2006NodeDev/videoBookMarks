@@ -5,6 +5,6 @@ Experiment to see if the table coding only works in the .md files.
 
 
 
-|day|time stamp|description|
+|day|timestamp|description|
 |----|----|----|
 |col 1|col 2|col 3|
