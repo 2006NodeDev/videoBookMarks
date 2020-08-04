@@ -29,5 +29,5 @@ Week 2: June 22nd - 26th
 | day 5 am | 0:30:00 | discussion starts with pg/promises notes |
 | day 5 am | 0:34:30 | demo more work on routers for project 0 |
 | day 5 am | 2:20:00 | trouble shoot and use app.listen |
-| day 5 am | 2:44:00 | get user by id and password in user-daos/auth-error if not found |
+| day 5 am | 2:44:00 | get user by id and password in user-daos/auth-error if not found 
 | day 5 am | 2:53:00 | set up post request code |
