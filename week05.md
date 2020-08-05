@@ -35,3 +35,4 @@ Week 5: July 13th - 17th
 | day 4 am | 2:54:40 | demo: using inline editor in GCloud to write and test a function |
 | day 4 pm | 0:00:00 | whiteboard explanation of pub sub |
 | day 4 pm | 0:06:00 | demo: setup pub sub |
+| day 4 pm | 0:47:00 | demo: 2nd method for retrieving a topic from several topics |
