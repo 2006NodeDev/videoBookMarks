@@ -2,7 +2,7 @@ Here is our week 6 file.
 
 Week 6: July 20th - 24th
 
-| day rec.# | timestamp | dexcription |
+| day rec.# | timestamp | description |
 |-----------|-----------|-------------|
 | day 1 AM | 28:30 | Tanja asks about logout function counting.  Alec approved. |
 | day 1 AM | 30:24 | Day's agenda is announced |
