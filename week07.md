@@ -15,7 +15,7 @@ Week 7: July 27th - 31st
 | day 3 | 1:09:30 | recording resumed log dashboard |
 | day 3 | 1:13:25 | demo: setup our logger |
 | day 3 | 1:23:00 | demo: replacing console.log with logging |
-| day 3 | 1:53:30 | demo: work on book-service |
+| day 3 | 1:53:30 | demo: work on book-service / inter-service query|
 | day 4 AM | 0:15:00 | day's agenda announced |
 | day 4 AM | 1:39:00 | Kaili demo |
 | day 4 PM | 0:00:00 | Notes: Istio |

@@ -36,3 +36,4 @@ Week 5: July 13th - 17th
 | day 4 pm | 0:00:00 | whiteboard explanation of pub sub |
 | day 4 pm | 0:06:00 | demo: setup pub sub |
 | day 4 pm | 0:47:00 | demo: 2nd method for retrieving a topic from several topics |
+| day 4 pm | 0:52:40 | demo: setup express event emitter |
