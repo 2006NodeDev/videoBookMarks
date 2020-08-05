@@ -1,6 +1,6 @@
 Week 7: July 27th - 31st
 
-| day rec.# | timestamp | dexcription |
+| day rec.# | timestamp | decsription |
 |-----------|-----------|-------------|
 | day 2 #1 | 0:35:45 | Alec's hair |
 | day 2 #2 | 0:00:00 | Notes: DevOps |
