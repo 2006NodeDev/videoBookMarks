@@ -11,6 +11,7 @@
 | day 2 pm | 3:14 | React notes |
 | day 2 pm | 3:31 | React code demo |
 | day 3 | 7:20 | use name of component as if it were an html tag |
+| day 4 am | 0:39:00 | react props for components |
 | day 4 am | 2:43 | axios to link front end to back end stuff |
 | day 4 am | 3:00 | material ui react components |
 
