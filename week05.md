@@ -5,7 +5,7 @@ Week 5: July 13th - 17th
 | day/video | timestamp | description |
 |--------|--------|--------|
 | day 2 | 5:02:00 | managed vs. unamanaged instance group |
-| day 2 | 5:12:50  | how to put a web site in cloud storage |
+| day 2 | 5:12:50 | how to put a web site in cloud storage |
 | day 2 | 5:24:00 | demo setting up website bucket |
 | day 2 | 5:28:00 | React Build Script notes and demo |
 | day 2 | 5:34:45 | show how to use the command line to load website into bucket |
