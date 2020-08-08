@@ -1,5 +1,6 @@
 Week 7: July 27th - 31st
 
+
 | day rec.# | timestamp | description |
 |-----------|-----------|-------------|
 | day 2 #1 | 0:35:45 | Alec's hair |
