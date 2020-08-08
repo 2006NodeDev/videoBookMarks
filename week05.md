@@ -38,3 +38,13 @@ Week 5: July 13th - 17th
 | day 4 pm | 0:47:00 | demo: 2nd method for retrieving a topic from several topics |
 | day 4 pm | 0:52:40 | demo: setup express event emitter |
 | day 4 pm | 1:23:37 | demo: how to send a pubsub email from the cloud function |
+| day 4 pm | 2:09:40 | demo: how to deploy pubsub related code |
+| day 5 #1 | 1:01:00 | Q&A: getting help with project copy/version with GitHub |
+| day 5 #1 | 1:12:00 | Q&A: getting a new user in a PubSub topic |
+| day 5 #1 | 1:17:00 | Agenda Topics: docker, microservices, deployment a better way |
+| day 5 #2 | 0:00:00 | notes: Virtual Machine, Container, and Docker |
+| day 5 #2 | 0:25:15 | demo: dependencies (production vs deployment), deploy docker |
+| day 5 #2 | 0:45:55 | whiteboard explanation of deploying docker |
+| day 5 #2 | 0:50:00 | demo: more docker stuff |
+| day 5 #3 | 0:00:00 | rundown from before lunch and more docker |
+| day 5 #3 | 0:52:00 | notes: Microservices |
