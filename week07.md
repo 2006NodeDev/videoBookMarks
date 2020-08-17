@@ -20,6 +20,6 @@ Week 7: July 27th - 31st
 | day 4 AM | 0:15:00 | day's agenda announced |
 | day 4 AM | 1:39:00 | Kaili demo |
 | day 4 PM | 0:00:00 | Notes: Istio |
-| day 4 PM | 0:45:30 | Helm notes |
-| day 4 PM | 1:15:00 | install helm |
-| day 5 | 2:13:45 | Stackdriver notes | 
+| day 5 PM | 0:45:30 | Helm notes |
+| day 5 PM | 1:15:00 | install helm |
+| day 5 PM | 2:13:45 | Stackdriver notes | 
