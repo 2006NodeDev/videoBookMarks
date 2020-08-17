@@ -10,5 +10,7 @@ Week 8: August 3rd - 7th
 | week8day4 | 0:00:00 | demo: datastore |
 | week8day4 | 0:46:00 | notes: BigQuery and BigTable |
 | week8day4 | 1:04:00 | Big Table Tutorial recommended |
-
+| week8day5 | 0:00:00 | Authentication History |
+| week8day5 | 0:40:00 | OAuth |
+| week8day5 | 1:42:00 | Auth0 |
  
