@@ -12,6 +12,7 @@ Week 5: July 13th - 17th
 | day 2 | 6:26:00 | show environment variable for choosing between localhost and production |
 | day 2 | 6:29:00 | set up with your own domain |
 | day 3 #1 | 0:00:00 | nothing significant |
+| day 3 #2 | 0:10:00 | accepting an image |
 | day 3 #2 | 0:14:00 | discuss goals for demo |
 | day 3 #2 | 0:37:20 | demo for putting pictures in a bucket |
 | day 3 #3 | 0:00:00 | enterprise picture: controller, service, data access layers |
